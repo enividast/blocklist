@@ -4,5 +4,4 @@ fake-login.xyz/paypal/
 sub.phishing.org
 ghanaweb.com
 google.com
-microsoft.com
-https://www.microsoft.com/en-us/
+x.com
