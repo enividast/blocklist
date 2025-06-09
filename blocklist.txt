@@ -5,3 +5,4 @@ sub.phishing.org
 ghanaweb.com
 google.com
 x.com
+ridge.com
