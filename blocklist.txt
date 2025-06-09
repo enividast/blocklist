@@ -8,3 +8,5 @@ x.com
 ridge.com
 bog.gov.gh
 https://www.bog.gov.gh/
+https://thehackernews.com/
+thehackernews.com
