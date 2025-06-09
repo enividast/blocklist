@@ -15,3 +15,4 @@ https://www.bleepingcomputer.com/
 bleepingcomputer.com
 amazon.com
 https://www.amazon.com/
+bridge.com
