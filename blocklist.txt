@@ -3,4 +3,4 @@ malicious-site.net
 fake-login.xyz/paypal/
 sub.phishing.org
 ghanaweb.com
-
+google.com
