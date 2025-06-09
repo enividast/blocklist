@@ -2,3 +2,4 @@ examplephishing.com
 malicious-site.net
 fake-login.xyz/paypal/
 sub.phishing.org
+yahoo.com
