@@ -7,3 +7,4 @@ google.com
 x.com
 ridge.com
 bog.gov.gh
+https://www.bog.gov.gh/
